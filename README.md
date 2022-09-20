@@ -78,7 +78,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#idealadarsh" >
-        <img src="https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png" width="48" height="48" alt="Vue.js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="Vue.js" />
       </a>
       <br>Vue.js
     </td>
