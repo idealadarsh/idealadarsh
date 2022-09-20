@@ -78,7 +78,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#idealadarsh" >
-        <img src="https://vuejs.org/images/logo.svg" width="48" height="48" alt="Vue.js" />
+        <img src="https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png" width="48" height="48" alt="Vue.js" />
       </a>
       <br>Vue.js
     </td>
@@ -246,7 +246,7 @@
     </td>
     <td align="center" width="96">
       <a href="#idealadarsh">
-        <img src="https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg_400x400.jpg" width="45" height="45" alt="DigitalOcean" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" width="45" height="45" alt="DigitalOcean" />
       </a>
       <br>DigitalOcean
     </td>
