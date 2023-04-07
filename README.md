@@ -1,4 +1,3 @@
-
 <h1 align="left" id="#idealadarsh">👋 Hi there! I'm Adarsh</h1>
 <h3 align="left">I am working in a DevOps Technical Lead role at Inspektlabs</h3>
 
@@ -7,9 +6,9 @@
 </a>
 
 - 🏢 &nbsp;I'm currently working at **[Inspektlabs]**
-- 🌱 &nbsp;I’m currently learning **[Solidity] & [Rust]**
+- 🌱 &nbsp;Building **[GetPortfol.io](https://getportfol.io)**
 - 💬 &nbsp;Connect with me on **[LinkedIn]**
-- 🐦 &nbsp;I share about Web Development, JavaScript & Web 3.0 on **[Twitter]**
+- 🐦 &nbsp;I share about Web Development, Cloud & DevOps on **[Twitter]**
 
 <br>
 
@@ -18,7 +17,6 @@
 <h2 align="left" id="idealadarsh">Favorite Tech</h2>
 
 > Tools, languages, and platforms that I like to work with.
-
 
 <table align="center">
   <tr>
@@ -48,7 +46,7 @@
     </td>
     <td align="center" width="96">
       <a href="#idealadarsh">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
@@ -196,7 +194,7 @@
     </td>
     <td align="center" width="96">
       <a href="#idealadarsh">
-        <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" width="48" height="48" alt="Docker" />
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -222,13 +220,13 @@
     </td>
     <td align="center" width="96">
       <a href="#idealadarsh">
-        <img src="https://www.techrepublic.com/a/hub/i/r/2016/11/17/6f5f8308-7193-4b46-866d-b88fb0fa68e5/resize/1200x/b9e0cffbfe79d527887feda908c41ac3/apachehero.jpg" width="48" height="48" alt="Apache" />
+        <img src="https://e7.pngegg.com/pngimages/530/441/png-clipart-logo-apache-http-server-apache-software-foundation-computer-servers-web-server-apache-text-performance.png" width="48" height="48" alt="Apache" />
       </a>
       <br>Apache
     </td>
     <td align="center" width="96">
       <a href="#idealadarsh">
-        <img src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" width="48" height="48" alt="Netlify" />
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="48" height="48" alt="Netlify" />
       </a>
       <br>Netlify
     </td>
@@ -271,12 +269,11 @@
   </tr>
 </table>
 
-
-[linkedin]: https://www.linkedin.com/in/idealadarsh "LinkedIn"
-[twitter]: https://twitter.com/idealadarsh "Twitter"
-[Solidity]: https://soliditylang.org/ "Solidity"
-[Rust]: https://www.rust-lang.org/ "Rust"
-[Inspektlabs]: https://inspektlabs.com "Inspektlabs"
+[linkedin]: https://www.linkedin.com/in/idealadarsh 'LinkedIn'
+[twitter]: https://twitter.com/idealadarsh 'Twitter'
+[solidity]: https://soliditylang.org/ 'Solidity'
+[rust]: https://www.rust-lang.org/ 'Rust'
+[inspektlabs]: https://inspektlabs.com 'Inspektlabs'
 
 <br/>
 
@@ -302,3 +299,6 @@
 <a href="https://twitter.com/idealadarshk">    
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=idealadarshk&layout=wide" alt="Adarsh Kumar" align="right" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
