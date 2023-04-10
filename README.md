@@ -277,10 +277,6 @@
 
 <br/>
 
-[![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=idealadarsh&theme=react-dark)](https://github.com/idealadarsh)
-
-<br/>
-
 ## Github Trophies
 
 <hr>
@@ -299,6 +295,9 @@
 <a href="https://twitter.com/idealadarshk">    
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=idealadarshk&layout=wide" alt="Adarsh Kumar" align="right" />
 </a>
+
+<hr>
+<br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2021%20mins-blue)
