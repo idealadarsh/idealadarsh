@@ -1,5 +1,5 @@
 <h1 align="left" id="#idealadarsh">👋 Hi there! I'm Adarsh</h1>
-<h3 align="left">I am working in a DevOps Technical Lead role at Inspektlabs</h3>
+<h3 align="left">I am working in a Cloud Architect role at Inspektlabs</h3>
 
 <a href="##idealadarsh">
   <img src="https://github-readme-stats.vercel.app/api?username=idealadarsh&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Adarsh Kumar" align="right" />
@@ -8,11 +8,11 @@
 - 🏢 &nbsp;I'm currently working at **[Inspektlabs]**
 - 🌱 &nbsp;Building **[GetPortfol.io](https://getportfol.io)**
 - 💬 &nbsp;Connect with me on **[LinkedIn]**
-- 🐦 &nbsp;I share about Web Development, Cloud & DevOps on **[Twitter]**
+- 🐦 &nbsp;I share about Web Development, SaaS, Cloud & DevOps on **[Twitter]**
 
 <br>
 
-![Lorem Ipsum](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Adarsh;Welcome+to+my+Github+profile)
 
 <h2 align="left" id="idealadarsh">Favorite Tech</h2>
 
