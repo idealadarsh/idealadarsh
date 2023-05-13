@@ -300,7 +300,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -369,5 +369,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2023 00:28:24 UTC
+ Last Updated on 13/05/2023 00:26:47 UTC
 <!--END_SECTION:waka-->
