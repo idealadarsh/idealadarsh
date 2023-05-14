@@ -302,7 +302,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -345,15 +345,13 @@ Sunday                   86 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████░░░░   83.69 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+JavaScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -369,5 +367,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2023 00:26:47 UTC
+ Last Updated on 14/05/2023 00:30:56 UTC
 <!--END_SECTION:waka-->
