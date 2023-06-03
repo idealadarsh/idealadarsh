@@ -310,11 +310,11 @@
 
 > 📦 406.3 kB Used in GitHub's Storage 
  > 
-> 🏆 124 Contributions in the Year 2023
+> 🏆 125 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 41 Private Repositories 
  > 
@@ -345,14 +345,13 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     39 mins             ███████████████████████░░   93.84 % 
-Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -368,5 +367,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2023 00:32:44 UTC
+ Last Updated on 03/06/2023 00:31:14 UTC
 <!--END_SECTION:waka-->
