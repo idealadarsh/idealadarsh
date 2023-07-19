@@ -300,9 +300,9 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -345,15 +345,15 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    18 hrs 40 mins      █████████████████████████   99.12 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    13 hrs 18 mins      █████████████████████████   98.77 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 9 mins       ████████████████████████░   96.36 % 
-VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Chrome                   12 hrs 47 mins      ████████████████████████░   94.90 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 💻 Operating System: 
-Windows                  18 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -369,5 +369,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2023 00:56:22 UTC
+ Last Updated on 19/07/2023 00:56:07 UTC
 <!--END_SECTION:waka-->
