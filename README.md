@@ -5,10 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=idealadarsh&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Adarsh Kumar" align="right" />
 </a>
 
-- 🏢 &nbsp;I'm currently working at **[Inspektlabs]**
-- 🌱 &nbsp;Building **[GetPortfol.io](https://getportfol.io)**
-- 💬 &nbsp;Connect with me on **[LinkedIn]**
-- 🐦 &nbsp;I share about Web Development, SaaS, Cloud & DevOps on **[Twitter]**
+- 🏢 &nbsp;I'm currently working at **[Basis Worldwide](https://basisworldwide.com/)**
+- 💬 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/idealadarsh/)**
+- 🐦 &nbsp;I share about Web Development, SaaS, Cloud & DevOps on **[Twitter](https://x.com/AdarshBuilds)**
 
 <br>
 
