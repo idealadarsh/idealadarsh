@@ -299,7 +299,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C861%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C862%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -344,14 +344,14 @@ Sunday                   273 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 23 mins       █████████████████████░░░░   83.27 % 
-TypeScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Other                    4 hrs 47 mins       ████████████████████░░░░░   79.50 % 
+TypeScript               1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 52 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -367,5 +367,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 01:07:13 UTC
+ Last Updated on 07/03/2026 00:57:58 UTC
 <!--END_SECTION:waka-->
