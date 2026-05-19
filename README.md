@@ -299,6 +299,8 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C015%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.57%20million%20lines%20of%20code-blue?style=flat)
@@ -307,26 +309,63 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2026
+> 🏆 46 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 57 Private Repositories 
+> 🔑 58 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                1133 commits        ██████████░░░░░░░░░░░░░░░   40.38 % 
+🌃 Evening                1222 commits        ███████████░░░░░░░░░░░░░░   43.55 % 
+🌙 Night                  326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  477 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Wednesday                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Thursday                 565 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Friday                   521 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Saturday                 270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Sunday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    16 hrs 55 mins      ███████████████████████░░   92.15 % 
+CSS                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+
+🔥 Editors: 
+Chrome                   18 hrs 22 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      18 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               46 repos            ████████████░░░░░░░░░░░░░   48.42 % 
-TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript               46 repos            ████████████░░░░░░░░░░░░░   47.92 % 
+TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 01:59:22 UTC
+ Last Updated on 19/05/2026 01:58:32 UTC
 <!--END_SECTION:waka-->
