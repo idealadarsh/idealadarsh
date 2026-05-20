@@ -299,7 +299,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C015%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C018%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -344,14 +344,14 @@ Sunday                   278 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 hrs 55 mins      ███████████████████████░░   92.15 % 
-CSS                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Other                    13 hrs 46 mins      ████████████████████████░   96.96 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 22 mins      █████████████████████████   100.00 % 
+Chrome                   14 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -367,5 +367,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 01:58:32 UTC
+ Last Updated on 20/05/2026 01:58:24 UTC
 <!--END_SECTION:waka-->
