@@ -299,7 +299,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%209%20mins-blue?style=flat)
 
@@ -346,14 +346,14 @@ Sunday                   302 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 35 mins       █████████████████████░░░░   83.13 % 
-Bash                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Other                    11 hrs 34 mins      ██████████████████████░░░   86.58 % 
+Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 8 mins        █████████████████████████   100.00 % 
+Chrome                   13 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      13 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -375,5 +375,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 01:25:40 UTC
+ Last Updated on 01/08/2026 01:27:24 UTC
 <!--END_SECTION:waka-->
