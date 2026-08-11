@@ -1,302 +1,229 @@
-<h1 align="left" id="#idealadarsh">👋 Hi there! I'm Adarsh</h1>
-<h3 align="left">I am working in a Cloud Architect role at Inspektlabs</h3>
+<div align="center">
 
-<a href="##idealadarsh">
-  <img src="https://github-readme-stats.vercel.app/api?username=idealadarsh&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Adarsh Kumar" align="right" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6366F1&center=true&vCenter=true&width=560&height=45&lines=Hi%2C%20I%27m%20Adarsh;Cloud%20Architect;Web%20%7C%20SaaS%20%7C%20Cloud%20%7C%20DevOps" alt="Hi, I'm Adarsh — Cloud Architect" />
+
+<h1>Adarsh Kumar</h1>
+
+<p><strong>Cloud Architect at <a href="https://basisworldwide.com/">Basis Worldwide</a></strong></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/idealadarsh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/AdarshBuilds"><img src="https://img.shields.io/badge/X-1F2937?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=idealadarsh&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+</div>
+
+---
+
+### About
 
 - 🏢 &nbsp;I'm currently working at **[Basis Worldwide](https://basisworldwide.com/)**
+- 🐦 &nbsp;I share about Web Development, SaaS, Cloud &amp; DevOps on **[X](https://x.com/AdarshBuilds)**
 - 💬 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/idealadarsh/)**
-- 🐦 &nbsp;I share about Web Development, SaaS, Cloud & DevOps on **[Twitter](https://x.com/AdarshBuilds)**
 
-<br>
+---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Adarsh;Welcome+to+my+Github+profile)
+<h2 align="center">🧰 Tech Stack</h2>
 
-<h2 align="left" id="idealadarsh">Favorite Tech</h2>
+<p align="center"><i>Tools, languages, and platforms I like to work with.</i></p>
 
-> Tools, languages, and platforms that I like to work with.
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://img.stackshare.io/service/5204/bulma-logo.png" width="48" height="48" alt="Bulma" />
-      </a>
-      <br>Bulma
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" width="48" height="48" alt="Svelte" />
-      </a>
-      <br>Svelte
-    </td>
-    <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center"  width="96">
-      <a href="#idealadarsh">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center"  width="96">
-      <a href="#idealadarsh">
-        <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://yt3.ggpht.com/ytc/AKedOLTKMcH7lIecL5268VyOtT60IIsPvO8w2c-fjWKGhA=s900-c-k-c0x00ffffff-no-rj" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://e7.pngegg.com/pngimages/530/441/png-clipart-logo-apache-http-server-apache-software-foundation-computer-servers-web-server-apache-text-performance.png" width="48" height="48" alt="Apache" />
-      </a>
-      <br>Apache
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="48" height="48" alt="Netlify" />
-      </a>
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://avatars.githubusercontent.com/u/14985020?s=280&v=4" width="48" height="48" alt="Vercel" />
-      </a>
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png" width="48" height="48" alt="Heroku" />
-      </a>
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" width="45" height="45" alt="DigitalOcean" />
-      </a>
-      <br>DigitalOcean
-    </td>
-    <td align="center" width="96">
-      <a href="#idealadarsh">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Microsoft Azure" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud Platform" />
-      </a>
-      <br>GCP
-    </td>
-    <td align="center" width="96"> 
-      <a href="#idealadarsh" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="Amazon Web Services" />
-      </a>
-      <br>AWS
-    </td>
-  </tr>
-</table>
+<h3>Languages &amp; Frameworks</h3>
 
-[linkedin]: https://www.linkedin.com/in/idealadarsh 'LinkedIn'
-[twitter]: https://twitter.com/idealadarsh 'Twitter'
-[solidity]: https://soliditylang.org/ 'Solidity'
-[rust]: https://www.rust-lang.org/ 'Rust'
-[inspektlabs]: https://inspektlabs.com 'Inspektlabs'
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br /><sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br /><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br /><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+        <br /><sub><b>Kotlin</b></sub>
+      </td>
+      <td align="center" width="88">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        </picture>
+        <br /><sub><b>Bash</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br /><sub><b>React</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="88">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        </picture>
+        <br /><sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+        <br /><sub><b>Vue.js</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+        <br /><sub><b>Svelte</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+        <br /><sub><b>Tailwind</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+        <br /><sub><b>Sass</b></sub>
+      </td>
+    </tr>
+  </table>
 
-<br/>
+</div>
 
-## Github Trophies
+<div align="center">
 
-<hr>
-<br/>
+<h3>Backend &amp; Data</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=idealadarsh&theme=radical&column=4&margin-w=15&margin-h=15" alt="Adarsh Kumar"/>
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br /><sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="88">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+        </picture>
+        <br /><sub><b>Flask</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+        <br /><sub><b>GraphQL</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br /><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <br /><sub><b>MySQL</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br /><sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+        <br /><sub><b>Redis</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+        <br /><sub><b>Firebase</b></sub>
+      </td>
+    </tr>
+  </table>
 
-<br/>
+</div>
 
-<h2>Github Stats</h2>
+<div align="center">
 
-<a href="#idealadarsh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealadarsh&layout=compact&theme=react" alt="Adarsh Kumar" align="left" />
-</a>
+<h3>Cloud &amp; DevOps</h3>
 
-<a href="https://twitter.com/idealadarshk">    
-    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=idealadarshk&layout=wide" alt="Adarsh Kumar" align="right" />
-</a>
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+        <br /><sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
+        <br /><sub><b>GCP</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+        <br /><sub><b>Azure</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br /><sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
+        <br /><sub><b>Kubernetes</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+        <br /><sub><b>Nginx</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br /><sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br /><sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="88">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
+        </picture>
+        <br /><sub><b>Vercel</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
+        <br /><sub><b>Netlify</b></sub>
+      </td>
+    </tr>
+  </table>
 
-<hr>
-<br/>
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<!--
+  This card is rendered by github-readme-activity-graph.vercel.app, a free
+  third-party service, not by GitHub. If it stops rendering, curl the URL
+  directly before editing anything — the stats and trophy cards that used to
+  live here died exactly this way, returning 503 DEPLOYMENT_PAUSED and
+  402 Payment required instead of an image.
+
+  Two variants are served so the card matches the reader's theme; keep the
+  colour params of the two URLs in sync when editing.
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=idealadarsh&bg_color=0D1117&color=E6EDF3&line=6366F1&point=FFFFFF&title_color=E6EDF3&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idealadarsh&bg_color=FFFFFF&color=1F2328&line=6366F1&point=6366F1&title_color=1F2328&hide_border=true&area=true" alt="Contribution activity graph" width="98%" />
+</picture>
+
+</div>
+
+---
+
+<h2 align="center">⏱️ Dev Metrics</h2>
+
+<p align="center"><i>Updated daily by <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> — everything below this line is generated.</i></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%206%20mins-blue?style=flat)
