@@ -273,14 +273,14 @@ Sunday                   329 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 42 mins      █████████████████████░░░░   83.50 % 
-Bash                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Other                    8 hrs 50 mins       █████████████████████░░░░   83.26 % 
+Bash                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 
 🔥 Editors: 
-Chrome                   14 hrs              █████████████████████████   100.00 % 
+Chrome                   10 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs              █████████████████████████   100.00 % 
+Mac                      10 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -302,5 +302,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 07:17:32 UTC
+ Last Updated on 29/08/2026 04:28:51 UTC
 <!--END_SECTION:waka-->
