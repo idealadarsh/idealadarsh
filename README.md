@@ -226,7 +226,7 @@
 <p align="center"><i>Updated daily by <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> — everything below this line is generated.</i></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%209%20mins-blue?style=flat)
 
@@ -273,14 +273,14 @@ Sunday                   362 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 11 mins       ██████████████████████░░░   86.86 % 
-Bash                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Other                    7 hrs 42 mins       █████████████████████░░░░   82.03 % 
+Bash                     1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 7 mins        █████████████████████████   100.00 % 
+Chrome                   9 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -302,5 +302,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 01:41:38 UTC
+ Last Updated on 12/09/2026 01:47:24 UTC
 <!--END_SECTION:waka-->
