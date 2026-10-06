@@ -226,7 +226,7 @@
 <p align="center"><i>Updated daily by <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> — everything below this line is generated.</i></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%209%20mins-blue?style=flat)
 
@@ -238,32 +238,32 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2026
+> 🏆 98 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 58 Private Repositories 
+> 🔑 59 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-🌆 Daytime                1796 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
-🌃 Evening                2000 commits        ███████████░░░░░░░░░░░░░░   44.24 % 
-🌙 Night                  518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+🌞 Morning                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+🌆 Daytime                1796 commits        ██████████░░░░░░░░░░░░░░░   39.68 % 
+🌃 Evening                2005 commits        ███████████░░░░░░░░░░░░░░   44.30 % 
+🌙 Night                  518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Tuesday                  945 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Wednesday                794 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Thursday                 679 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Friday                   683 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Monday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Tuesday                  945 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Wednesday                794 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Thursday                 679 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Friday                   683 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Saturday                 417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Sunday                   543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 ```
 
 
@@ -273,14 +273,14 @@ Sunday                   543 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    17 hrs 13 mins      ███████████████████████░░   93.83 % 
-Bash                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Other                    18 hrs 38 mins      ████████████████████████░   96.26 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 21 mins      █████████████████████████   100.00 % 
+Chrome                   19 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -302,5 +302,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 02:36:59 UTC
+ Last Updated on 06/10/2026 03:31:22 UTC
 <!--END_SECTION:waka-->
